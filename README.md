@@ -12,10 +12,10 @@ Mapping all stack items related to IoT space, including the standard bodies, con
 ### Proprietary platforms offering full stack implementations
 * [HomeKit](https://www.apple.com/ios/home/)
 * [Weave](https://developers.nest.com/weave/)
-* [ThingSpace] (https://thingspace.verizon.com/)
+* [ThingSpace](https://thingspace.verizon.com/)
 * [Artik + SmartThings](https://www.artik.io/)
 * [Azure IoT](https://azure.microsoft.com/en-us/suites/iot-suite/)
-* [AWS IoT] (https://aws.amazon.com/iot/)
+* [AWS IoT](https://aws.amazon.com/iot/)
 ### Industrial (IIoT)
 * [Hypercat](www.hypercat.io/)
 * [OMG](http://www.omg.org/)
